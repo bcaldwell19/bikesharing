@@ -15,7 +15,7 @@ like to see a bike trip analysis.
 
 **Software**: Tableau public
 
-**Story Link**: [link to dashboard](https://public.tableau.com/app/profile/b5363/viz/city_bike_1_2_3/CityBikeTrends)
+**Story Link**: [link to story](https://public.tableau.com/app/profile/b5363/viz/city_bike_1_2_3/CityBikeTrends)
 
 ____________________________________________________________________________________________
 
